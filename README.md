@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Muhammed Fayiz!
 
-<!--
-**fayiz12/fayiz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with expertise in Python, Django, React, and JavaScript. Here are some highlights of my skills and projects:
 
-Here are some ideas to get you started:
+- 🐍 Python
+- 🌐 JavaScript | React
+- 🌐 Django | Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Jersey Box](https://www.jerseysbox.shop/) - Welcome to Jersey Box. This e-commerce app is built using Django and PostgreSQL to provide a seamless shopping experience for sports enthusiasts.
+.
+
+
+Feel free to explore my repositories for more projects and contributions!
+
+Connect with me:
+
+
+
+Happy coding!
