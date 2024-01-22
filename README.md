@@ -16,6 +16,6 @@ Feel free to explore my repositories for more projects and contributions!
 
 Connect with me:
 
-
+- [LinkedIn](https://www.linkedin.com/in/muhammad-fayiz/)
 
 Happy coding!
